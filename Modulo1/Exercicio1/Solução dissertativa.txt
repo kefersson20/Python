@@ -1,0 +1,29 @@
+Passos para a solução:
+
+Entrada:
+
+Ler o número n digitado pelo usuário.
+
+Processamento:
+
+Calcular o valor da dezena: dezena = n - 1.
+
+Calcular o valor da unidade: unidade = 10 - n.
+
+Calcular o resultado final: resultado = dezena * 10 + unidade.
+
+Saída:
+
+Mostrar na tela o valor final de resultado.
+
+Exemplo prático:
+
+Se n = 7:
+
+dezena = 7 - 1 = 6
+
+unidade = 10 - 7 = 3
+
+resultado = 6 * 10 + 3 = 63
+
+Logo, 9 x 7 = 63
